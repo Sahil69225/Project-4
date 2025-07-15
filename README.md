@@ -1,1 +1,1 @@
-# Project-4
+# Project-4 This is a simple Java console application that helps users check and manage the meanings of different colors. It comes with predefined meanings for common colors (like Red, Blue, Green, etc.) and also allows users to add new colors and their meanings. The program uses a HashMap for efficient lookup and offers an interactive menu for input.
